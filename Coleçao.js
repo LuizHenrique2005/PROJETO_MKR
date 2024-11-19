@@ -1,9 +1,9 @@
 const bags = [
-    { id: 1, type: 'mochila', color: 'preta', price: 'baixo', name: 'Mochila Preta Básica', image: '/imagens/Coleção/IMG_academia.jpg' },
-    { id: 2, type: 'bolsa', color: 'marrom', price: 'medio', name: 'Bolsa Marrom de Couro', image: '/imagens/Coleção/IMG_bolsamarrom.jpg' },
-    { id: 3, type: 'necessaire', color: 'branco', price: 'alto', name: 'Necessaire Branca', image: '/imagens/Coleção/IMG_necessairebranca.jpg' },
-    { id: 4, type: 'mochila', color: 'preta', price: 'medio', name: 'Mochila Preta de Luxo', image: '/imagens/Coleção/IMG_bolsapreta2.jpg' },
-    { id: 5, type: 'bolsa', color: 'branco', price: 'baixo', name: 'Bolsa Branca Pequena', image: '/imagens/Coleção/IMG_bolsabranca2.jpg' },
+    { id: 1, type: 'mochila', color: 'preta', price: 'baixo', name: 'Mochila Preta Básica', image: 'IMG_academia.jpg' },
+    { id: 2, type: 'bolsa', color: 'marrom', price: 'medio', name: 'Bolsa Marrom de Couro', image: 'IMG_bolsamarrom.jpg' },
+    { id: 3, type: 'necessaire', color: 'branco', price: 'alto', name: 'Necessaire Branca', image: 'IMG_necessairebranca.jpg' },
+    { id: 4, type: 'mochila', color: 'preta', price: 'medio', name: 'Mochila Preta de Luxo', image: 'IMG_bolsapreta2.jpg' },
+    { id: 5, type: 'bolsa', color: 'branco', price: 'baixo', name: 'Bolsa Branca Pequena', image: 'IMG_bolsabranca2.jpg' },
 ];
 
 // Seleção do contêiner que vai exibir as bolsas filtradas
